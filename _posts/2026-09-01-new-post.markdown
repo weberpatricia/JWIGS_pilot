@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Blog Post 1"
+date:   2026-09-01
+categories: jekyll update
+author: Patricia Weber
+---
+
+Some content

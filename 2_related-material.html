@@ -1,0 +1,10 @@
+---
+layout: page
+title: Related Material
+---
+{% for member in site.related-material %}
+    <div class"member">
+        <h2>{{member.title}}</h2>
+        <body>{{member.content}}</body>
+    </div>
+{% endfor%}

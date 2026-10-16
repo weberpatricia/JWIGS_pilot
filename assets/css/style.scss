@@ -1,0 +1,243 @@
+---
+---
+$background-color: #FCF5ED;
+$text-color: #002466;
+$brand-color: #61947A;
+
+@import
+"minima/skins/{{ site.minima.skin | default: 'classic' }}",
+"minima/initialize";
+
+/* Header */
+.site-title img {
+  width: 120px;
+  height: auto;
+  display: block;
+}
+
+.site-header {
+  padding-top: 20px;
+}
+
+/* Logo */
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.header-logo-left {
+  display: flex;
+  align-items: flex-end;
+}
+
+.header-logo-left .jwigs-logo {
+  width: 120px;
+  height: auto;
+  display: block;
+  padding-bottom: 20px;
+}
+
+.header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-left: auto;
+}
+
+.header-logo {
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+}
+
+
+.header-logo {
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+}
+
+
+.header-logo .main-logo {
+  width: 100px;
+  height: auto;
+}
+
+
+  
+/* Team */
+
+.member {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin-bottom: 50px;
+}
+
+.member-photo {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.member-info {
+  flex: 1;
+}
+
+.member-info h2 {
+  margin-top: 0;
+  margin-bottom: 1px;
+}
+
+.member-position {
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.member-affiliation {
+  font-size: 0.95em;
+  margin-bottom: 15px;
+}
+
+.member-description {
+  line-height: 1.6;
+}
+
+@media screen and (max-width: 600px) {
+  .member {
+    flex-direction: column;
+  }
+
+  .member-photo {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+/* page heading to left
+
+.post-title {
+  text-align: left;
+}
+
+.post-header {
+  text-align: left;
+}
+
+/* Website colour scheme */
+
+body,
+.site-header,
+.site-footer,
+.page-content {
+  background-color: #FCF5ED;
+  color: #002466;
+}
+
+body {
+  color: #002466;
+}
+
+a {
+  color: #002466;
+}
+
+a:visited {
+  color: #002466;
+}
+
+a:hover {
+  color: #61947A;
+}
+
+.site-nav .page-link {
+  transition: color 0.2s ease;
+}
+
+.site-nav .page-link:hover {
+  color: #61947A !important;
+}
+
+/* Headings */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page-heading,
+.post-title,
+.post-content h1 {
+  color: #002466;
+}
+
+@font-face {
+  font-family: "BJCree";
+  src: url("{{ '/assets/fonts/BJCree-Regular.ttf' | relative_url }}") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BJCree";
+  src: url("{{ '/assets/fonts/BJCree-Medium.ttf' | relative_url }}") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BJCree";
+  src: url("{{ '/assets/fonts/BJCree-SemiBold.ttf' | relative_url }}") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BJCree";
+  src: url("{{ '/assets/fonts/BJCree-Bold.ttf' | relative_url }}") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+/* BJCree as the website font */
+
+html,
+body {
+  font-family: "BJCree", sans-serif;
+}
+
+.site-title,
+.site-nav,
+.page-content,
+.post-content,
+.post-title,
+.page-heading,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.member {
+  font-family: "BJCree", sans-serif;
+}
+
+/*Footer*/
+.footer-logo {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  width: fit-content;
+}
+
+.footer-logo img {
+  width: 200px;
+  height: auto;
+  display: block;
+}
