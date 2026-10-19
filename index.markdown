@@ -5,4 +5,5 @@
 layout: home
 
 ---
-text 
+Jewish Writing in the Global South: Exploring Contiguities of Indian Jewish Writing with Maghrebin Jewish and Subaltern Indian Writing
+git

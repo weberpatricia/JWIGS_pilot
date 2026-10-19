@@ -23,7 +23,8 @@ author:
   name: "Contact:"
   email: patricia.weber@unibe.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Jewish Writing in the Global South.
+  Jewish Writing in the Global South: 
+  Exploring Contiguities of Indian Jewish Writing with Maghrebin Jewish and Subaltern Indian Writing (JWIGS)
 baseurl: "JWIGS_pilot" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
