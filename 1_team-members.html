@@ -4,7 +4,7 @@ title: Team
 ---
 
 <div class="team">
-
+{% assign team_members = site.team | sort: "order" %}
   {% for member in site.team-members %}
     <div class="member">
 
