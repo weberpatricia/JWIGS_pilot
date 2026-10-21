@@ -6,4 +6,6 @@ affiliation: Department of English, University of Bern
 link: 
 order: 3
 ---
+<p style="text-align: justify;">
 text
+</p>

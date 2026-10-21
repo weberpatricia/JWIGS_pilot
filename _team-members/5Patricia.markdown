@@ -6,4 +6,6 @@ affiliation: Institute of Geography, University of Bern
 link: 
 order: 4
 ---
+<p style="text-align: justify;">
 text
+</p>

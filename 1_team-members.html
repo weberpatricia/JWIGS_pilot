@@ -6,36 +6,36 @@ title: Team
 <div class="team">
   {% assign team_members = site.team-members | sort: "order" %}
 
-  {% for member in site.team-members %}
-    <div class="member">
+    {% for member in site.team-members %}
+      <div class="member">
 
-      <img class="member-photo"
-           src="{{ member.image_path | relative_url }}"
-           alt="{{ member.title }}">
+        <img class="member-photo"
+             src="{{ member.image_path | relative_url }}"
+             alt="{{ member.title }}">
 
-      <div class="member-info">
-        <h2>
-          {% if member.link %}
-            <a href="{{ member.link }}">{{ member.title }}</a>
-          {% else %}
-            {{ member.title }}
-          {% endif %}
-        </h2>
+        <div class="member-info">
+          <h2>
+            {% if member.link %}
+              <a href="{{ member.link }}">{{ member.title }}</a>
+            {% else %}
+              {{ member.title }}
+            {% endif %}
+          </h2>
 
-        <div class="member-position">
-          {{ member.position }}
+          <div class="member-position">
+            {{ member.position }}
+          </div>
+
+          <div class="member-affiliation">
+            {{ member.affiliation }}
+          </div>
+
+          <div class="member-description">
+            {{ member.content }}
+          </div>
         </div>
 
-        <div class="member-affiliation">
-          {{ member.affiliation }}
-        </div>
-
-        <div class="member-description">
-          {{ member.content }}
-        </div>
       </div>
-
-    </div>
-  {% endfor %}
+    {% endfor %}
 
 </div>
