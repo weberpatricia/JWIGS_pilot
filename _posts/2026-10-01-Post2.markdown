@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Blog Post 2"
+date:   2026-10-01
+categories: Subaltern-Indian-Writing
+author: Patricia Weber
+---
+
+Some content

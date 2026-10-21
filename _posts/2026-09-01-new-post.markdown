@@ -2,7 +2,7 @@
 layout: post
 title:  "Blog Post 1"
 date:   2026-09-01
-categories: jekyll update
+categories: Maghrebin-Jewish-Writing
 author: Patricia Weber
 ---
 
