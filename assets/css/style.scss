@@ -275,3 +275,24 @@ h6,
 .post-preview[hidden] {
   display: none;
 }
+
+
+/* Header separator */
+.site-header {
+  border-bottom: 1px solid #3f62a3;
+}
+
+/* Footer separator */
+.site-footer {
+  border-top: 1px solid #3f62a3;
+}
+
+/* Page title separator, if present */
+.page-heading {
+  border-bottom: none;
+}
+
+/* Post title separators, if present */
+.post-title {
+  border-bottom: none;
+}
