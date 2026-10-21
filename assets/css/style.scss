@@ -252,7 +252,7 @@ h6,
 
 .filter-btn {
   padding: 8px 16px;
-  border: 1px solid #002466;
+  border: 1px solid #ccc;
   border-radius: 20px;
   background: transparent;
   color: inherit;
@@ -263,14 +263,14 @@ h6,
 }
 
 .filter-btn:hover {
-  background: #fcf5ed;
-  color: #61947a;
+  background: #eee;
+  color: #222;
 }
 
 .filter-btn.active {
-  background: #fcf5ed;
-  color: #61947a;
-  border-color: #61947a;
+  background: #333;
+  color: #fff;
+  border-color: #333;
 }
 
 .post-preview[hidden] {
