@@ -6,6 +6,6 @@ layout: home
 
 ---
 
-<h1 style="font-size: 36px;">**Jewish Writing in the Global South:**</h1>   
+<h1 style="font-size: 36px;">Jewish Writing in the Global South</h1>   
 Exploring Contiguities of Indian Jewish Writing with Maghrebin Jewish and Subaltern Indian Writing.
 
