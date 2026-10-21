@@ -241,6 +241,7 @@ h6,
   height: auto;
   display: block;
 }
+/*blog filters*/
 
 .blog-filters {
   display: flex;
@@ -251,7 +252,7 @@ h6,
 
 .filter-btn {
   padding: 8px 16px;
-  border: 1px solid #ccc;
+  border: 1px solid #002466;
   border-radius: 20px;
   background: transparent;
   color: inherit;
@@ -262,14 +263,14 @@ h6,
 }
 
 .filter-btn:hover {
-  background: #eee;
-  color: #222;
+  background: #fcf5ed;
+  color: #61947a;
 }
 
 .filter-btn.active {
-  background: #333;
-  color: #fff;
-  border-color: #333;
+  background: #fcf5ed;
+  color: #61947a;
+  border-color: #61947a;
 }
 
 .post-preview[hidden] {
