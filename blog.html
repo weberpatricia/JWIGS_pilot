@@ -1,17 +1,33 @@
+
 ---
 layout: page
 title: Blog
 permalink: /blog/
 ---
 
+<div class="blog-filters">
+  <button class="filter-btn active" data-filter="all">
+    All
+  </button>
+  <button class="filter-btn" data-filter="Maghrebin-Jewish-Writing">
+    Maghrebin Jewish Writing
+  </button>
+  <button class="filter-btn" data-filter="Subaltern-Indian-Writing">
+    Subaltern Indian Writing
+  </button>
+</div>
+
 <div class="post-list">
 
   {% for post in site.posts %}
-    <article class="post-preview">
+    <article
+      class="post-preview"
+      data-categories="{{ post.categories | join: ',' | escape }}"
+    >
 
       <h2>
         <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
+          {{ post.title | escape }}
         </a>
       </h2>
 
@@ -27,3 +43,31 @@ permalink: /blog/
   {% endfor %}
 
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const buttons = document.querySelectorAll(".filter-btn");
+  const posts = document.querySelectorAll(".post-preview");
+
+  buttons.forEach(function (button) {
+    button.addEventListener("click", function () {
+      const filter = button.dataset.filter;
+
+      buttons.forEach(function (btn) {
+        const active = btn === button;
+        btn.classList.toggle("active", active);
+        btn.setAttribute("aria-pressed", String(active));
+      });
+
+      posts.forEach(function (post) {
+        const categories = (post.dataset.categories || "")
+          .split(",")
+          .map(category => category.trim());
+
+        post.hidden =
+          filter !== "all" && !categories.includes(filter);
+      });
+    });
+  });
+});
+</script>
