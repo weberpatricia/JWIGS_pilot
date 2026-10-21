@@ -135,19 +135,19 @@ body,
 .site-footer,
 .page-content {
   background-color: #FCF5ED;
-  color: #002466;
+  color: #156083;
 }
 
 body {
-  color: #002466;
+  color: #156083;
 }
 
 a {
-  color: #002466;
+  color: #156083;
 }
 
 a:visited {
-  color: #002466;
+  color: #156083;
 }
 
 a:hover {
@@ -173,7 +173,7 @@ h6,
 .page-heading,
 .post-title,
 .post-content h1 {
-  color: #002466;
+  color: #156083;
 }
 
 @font-face {
@@ -252,7 +252,7 @@ h6,
 
 .filter-btn {
   padding: 8px 16px;
-  border: 1px solid #002466;
+  border: 1px solid #156083;
   border-radius: 20px;
   background: transparent;
   color: inherit;
@@ -269,9 +269,9 @@ h6,
 }
 
 .filter-btn.active {
-  background: #fcf5ed;
-  color: #61947a;
-  border-color: #002466;
+  background: #156083;
+  color: #fcf5ed;
+  border-color: #156083;
 }
 
 .post-preview[hidden] {
@@ -281,12 +281,12 @@ h6,
 
 /* Header separator */
 .site-header {
-  border-bottom: 1px transparent #3f62a3;
+  border-bottom: 1px  #3f62a3;
 }
 
 /* Footer separator */
 .site-footer {
-  border-top: 1px transparent #3f62a3;
+  border-top: 1px  #3f62a3;
 }
 
 /* Page title separator, if present */
