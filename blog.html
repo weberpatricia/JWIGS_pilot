@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Blog
@@ -6,28 +5,20 @@ permalink: /blog/
 ---
 
 <div class="blog-filters">
-  <button class="filter-btn active" data-filter="all">
-    All
-  </button>
-  <button class="filter-btn" data-filter="Maghrebin-Jewish-Writing">
-    Maghrebin Jewish Writing
-  </button>
-  <button class="filter-btn" data-filter="Subaltern-Indian-Writing">
-    Subaltern Indian Writing
-  </button>
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="Maghrebin-Jewish-Writing">Maghrebin Jewish Writing</button>
+  <button class="filter-btn" data-filter="Subaltern-Indian-Writing">Subaltern Indian Writing</button>
 </div>
 
 <div class="post-list">
 
   {% for post in site.posts %}
-    <article
-      class="post-preview"
-      data-categories="{{ post.categories | join: ',' | escape }}"
-    >
+    <article class="post-preview"
+       data-categories="{{ post.categories | join: ',' | escape }}">
 
       <h2>
         <a href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
+          {{ post.title }}
         </a>
       </h2>
 
