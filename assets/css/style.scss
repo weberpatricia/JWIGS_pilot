@@ -252,7 +252,7 @@ h6,
 
 .filter-btn {
   padding: 8px 16px;
-  border: 1px solid #ccc;
+  border: 1px solid #002466;
   border-radius: 20px;
   background: transparent;
   color: inherit;
@@ -264,13 +264,14 @@ h6,
 
 .filter-btn:hover {
   background: #eee;
-  color: #222;
+  color: #61947a;
+  border-color: #61947a;
 }
 
 .filter-btn.active {
-  background: #333;
-  color: #fff;
-  border-color: #333;
+  background: #002466;
+  color: #fcf5ed;
+  border-color: #61947a;
 }
 
 .post-preview[hidden] {
@@ -280,12 +281,12 @@ h6,
 
 /* Header separator */
 .site-header {
-  border-bottom: 1px solid #3f62a3;
+  border-bottom: 1px transparent #3f62a3;
 }
 
 /* Footer separator */
 .site-footer {
-  border-top: 1px solid #3f62a3;
+  border-top: 1px transparent #3f62a3;
 }
 
 /* Page title separator, if present */
