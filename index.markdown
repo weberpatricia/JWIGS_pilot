@@ -8,4 +8,8 @@ layout: home
 
 <h1 style="font-size: 36px;">Jewish Writing in the Global South</h1>   
 Exploring Contiguities of Indian Jewish Writing with Maghrebin Jewish and Subaltern Indian Writing.
+<p>
+Across the Maghreb and India, Jewish communities developed distinct histories of belonging, cultural exchange, and identity. 
+JWIGS examines how these experiences are remembered and reimagined in literature.
+</p>
 
