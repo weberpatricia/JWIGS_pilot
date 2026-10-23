@@ -39,10 +39,10 @@ Maghrebi Jewish literature invites us to consider identities lived in the plural
 Works cited:
 </p>
 <p style="text-align: justify;">
-Assa, Sonia. “Elissa Rhaïs.” <i>Jewish Women’s Archive</i>, [https://jwa.org/encyclopedia/article/rhais-elissa](https://jwa.org/encyclopedia/article/rhais-elissa). Accessed 22 Oct. 2026.
+Assa, Sonia. “Elissa Rhaïs.” <i>Jewish Women’s Archive</i>, <a href="https://jwa.org/encyclopedia/article/rhais-elissa">https://jwa.org/encyclopedia/article/rhais-elissa</a>. Accessed 22 Oct. 2026.
 </p>
 <p style="text-align: justify;">
-Azagury, Yaëlle, and Frances Malino. “Blanche Bendahan.” <i>Jewish Women’s Archive</i>, 17 Feb. 2025, [https://jwa.org/encyclopedia/article/bendahan-blanche](https://jwa.org/encyclopedia/article/bendahan-blanche).
+Azagury, Yaëlle, and Frances Malino. “Blanche Bendahan.” <i>Jewish Women’s Archive</i>, 17 Feb. 2025, <a href="https://jwa.org/encyclopedia/article/bendahan-blanche">https://jwa.org/encyclopedia/article/bendahan-blanche</a>.
 </p>
 <p style="text-align: justify;">
 Bendahan, Blanche. <i>Mazaltob</i>. Éditions du Tambourin, 1930.
@@ -51,13 +51,13 @@ Bendahan, Blanche. <i>Mazaltob</i>. Éditions du Tambourin, 1930.
 Bénichou-Aboulker, Berthe. <i>La Kahéna, reine berbère</i>. 1933.
 </p>
 <p style="text-align: justify;">
-Bitton, Michele. “Berthe Bénichou-Aboulker.” <i>Jewish Women’s Archive</i>, [https://jwa.org/encyclopedia/article/benichou-aboulker-berthe](https://jwa.org/encyclopedia/article/benichou-aboulker-berthe). Accessed 22 Oct. 2026.
+Bitton, Michele. “Berthe Bénichou-Aboulker.” <i>Jewish Women’s Archive</i>, <a href="https://jwa.org/encyclopedia/article/benichou-aboulker-berthe">https://jwa.org/encyclopedia/article/benichou-aboulker-berthe</a>. Accessed 22 Oct. 2026.
 </p>
 <p style="text-align: justify;">
 Derrida, Jacques. <i>Monolingualism of the Other; or, The Prosthesis of Origin</i>. Translated by Patrick Mensah, Stanford University Press, 1998.
 </p>
 <p style="text-align: justify;">
-Glasberg, Rebecca Emily. <i>After Colonizer and Colonized: Algerian Jews and the Legacies of North African Literature in French</i>. PhD dissertation, University of California, Los Angeles, 2023. <i>eScholarship</i>, [https://escholarship.org/uc/item/1xj875d1](https://escholarship.org/uc/item/1xj875d1).
+Glasberg, Rebecca Emily. <i>After Colonizer and Colonized: Algerian Jews and the Legacies of North African Literature in French</i>. PhD dissertation, University of California, Los Angeles, 2023. <i>eScholarship</i>, <a href="https://escholarship.org/uc/item/1xj875d1">https://escholarship.org/uc/item/1xj875d1</a>.
 </p>
 <p style="text-align: justify;">
 Lévy, Sadia, and Robert Randau. <i>Rabbin: Roman de mœurs juives</i>. Havard fils, 1896.
@@ -66,5 +66,5 @@ Lévy, Sadia, and Robert Randau. <i>Rabbin: Roman de mœurs juives</i>. Havard f
 Rhaïs, Elissa. <i>Saâda la Marocaine</i>. Plon, 1919.
 </p>
 <p style="text-align: justify;">
-Sadock, Johann. “Francophone Maghrebi Jewish Literature.” <i>Encyclopedia of Jews in the Islamic World</i>, Brill, 29 Oct. 2014, [https://doi.org/10.1163/1878-9781_ejiw_com_0007970](https://doi.org/10.1163/1878-9781_ejiw_com_0007970).
+Sadock, Johann. “Francophone Maghrebi Jewish Literature.” <i>Encyclopedia of Jews in the Islamic World</i>, Brill, 29 Oct. 2014, <a href="https://doi.org/10.1163/1878-9781_ejiw_com_0007970">https://doi.org/10.1163/1878-9781_ejiw_com_0007970</a>.
 </p>
