@@ -7,5 +7,5 @@ link:
 order: 4
 ---
 <p style="text-align: justify;">
-<i>meow meow meow</i>
+<i>meow meow</i>
 </p>
