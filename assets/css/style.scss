@@ -17,6 +17,7 @@ $brand-color: #61947A;
 
 .site-header {
   padding-top: 20px;
+  border-bottom: 1px  #3f62a3;
 }
 
 /* Logo */
@@ -241,6 +242,11 @@ h6,
   height: auto;
   display: block;
 }
+
+.site-footer {
+  border-top: 1px  #3f62a3;
+}
+
 /*blog filters*/
 
 .blog-filters {
@@ -279,15 +285,7 @@ h6,
 }
 
 
-/* Header separator
-.site-header {
-  border-bottom: 1px  #3f62a3;
-}
 
-/* Footer separator 
-.site-footer {
-  border-top: 1px  #3f62a3;
-}
 
 /* Page title separator, if present
 .page-heading {
