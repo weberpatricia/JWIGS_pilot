@@ -5,6 +5,8 @@ date:   2026-10-22
 categories: Maghrebin-Jewish-Writing
 author: Yasmine Slimani
 ---
+
+
 <p style="text-align: justify;">
 Secular Maghrebi Jewish writing offers a rich perspective on Jewish communities in North Africa. From the nineteenth century onwards, it was shaped by French colonialism and, after the independence of the former colonies and protectorates, frequently by migration. Writing in this literary context becomes an act of remembrance and historical recovery, bringing to light experiences and narratives that have often remained at the margins of dominant accounts of Jewish modernity, diaspora, and identity, which have primarily centred on European and American Jewish experiences. Much of Maghrebi Jewish literature was written in French, the language of colonial education, and is often studied under the name ‘Francophone Maghrebi Jewish Literature.’ Yet its pages carry the traces of the languages spoken at home, from Judeo-Arabic to Judeo-Berber and Haketia.
 </p>
