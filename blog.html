@@ -27,8 +27,9 @@ permalink: /blog/
       </p>
 
       <div class="post-excerpt">
-        {{ post.excerpt }}
+        {{ post.content | strip_html | truncatewords: 40 }}
       </div>
+      
 
     </article>
   {% endfor %}
