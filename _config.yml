@@ -40,6 +40,7 @@ minima:
     - 2_primary-sources.html
     - 3_secondary-sources.html
     - 4_about.markdown
+
   social_links:
     - title: GitHub
       icon: github
