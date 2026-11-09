@@ -3,6 +3,7 @@ layout: post
 title:  "Maghrebi Jewish Literature"
 date:   2026-10-22
 categories: Maghrebin-Jewish-Writing
+sections: blog
 author: Yasmine Slimani
 ---
 

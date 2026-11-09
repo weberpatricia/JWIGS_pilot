@@ -13,28 +13,31 @@ permalink: /blog/
 <div class="post-list">
 
   {% for post in site.posts %}
-    <article class="post-preview"
-       data-categories="{{ post.categories | join: ',' | escape }}">
+    {% if post.sections contains "blog" %}
 
-      <h2>
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title }}
-        </a>
-      </h2>
+      <article class="post-preview">
 
-      <p class="post-meta">
-        {{ post.date | date: "%B %-d, %Y" }}
-      </p>
+        <h2>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h2>
 
-      <div class="post-excerpt">
-        {{ post.content | strip_html | truncatewords: 40 }}
-      </div>
+        <p class="post-meta">
+          {{ post.date | date: "%B %-d, %Y" }}
+        </p>
 
+        <div class="post-excerpt">
+          {{ post.content | strip_html | truncatewords: 40 }}
+        </div>
 
-    </article>
+      </article>
+
+    {% endif %}
   {% endfor %}
 
 </div>
+
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
