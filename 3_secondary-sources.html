@@ -1,0 +1,10 @@
+---
+layout: page
+title: Secondary Sources
+---
+{% for member in site.secondary-sources %}
+    <div class"member">
+        <h2>{{member.title}}</h2>
+        <body>{{member.content}}</body>
+    </div>
+{% endfor%}

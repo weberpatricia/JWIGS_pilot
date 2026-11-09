@@ -37,8 +37,8 @@ minima:
   nav_pages:
     - blog.html
     - 1_team-members.html
-    - 2_related-material.html
-    - 3_about.markdown
+    - 2_primary-sources.html
+    - 4_about.markdown
   social_links:
     - title: GitHub
       icon: github
