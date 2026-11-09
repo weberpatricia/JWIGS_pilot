@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jewish Indian Writing and the Indian Jewish Experience in Context"
-date:   2026-10-22
+date:   2026-10-23
 categories: Subaltern-Indian-Writing
 author: Axel Stähler
 ---
