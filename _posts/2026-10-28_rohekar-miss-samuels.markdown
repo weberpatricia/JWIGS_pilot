@@ -5,7 +5,6 @@ date:   2026-10-28
 categories: 
     - Subaltern-Indian-Writing
 sections: 
-    - primary-sources
     - blog
 author: Axel Stähler
 ---
