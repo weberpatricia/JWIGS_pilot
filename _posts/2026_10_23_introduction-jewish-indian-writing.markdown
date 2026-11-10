@@ -2,8 +2,11 @@
 layout: post
 title:  "Jewish Indian Writing and the Indian Jewish Experience in Context"
 date:   2026-10-23
-categories: Subaltern-Indian-Writing
-sections: primary-sources
+categories: 
+    - Subaltern-Indian-Writing
+sections: 
+    - primary-sources
+    - blog
 author: Axel Stähler
 ---
 

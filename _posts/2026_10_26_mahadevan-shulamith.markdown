@@ -2,8 +2,11 @@
 layout: post
 title:  "<em>Shulamith</em> Nourished by India"
 date:   2026-10-26
-categories: Subaltern-Indian-Writing
-sections: primary-sources
+categories: 
+    - Subaltern-Indian-Writing
+sections: 
+    - primary-sources
+    - blog
 author: Axel Stähler
 ---
 
