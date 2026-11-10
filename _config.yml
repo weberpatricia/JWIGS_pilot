@@ -36,10 +36,10 @@ minima:
 
   nav_pages:
     - blog.html
-    - 2_primary-sources.html
-    - 3_secondary-sources.html
-    - 1_team-members.html
-    - 4_about.markdown
+    - primary-sources.html
+    - secondary-sources.html
+    - team-members.html
+    - about.markdown
 
   social_links:
     - title: GitHub
