@@ -4,6 +4,12 @@ title: Secondary Sources
 permalink: /secondary-sources/
 ---
 
+<div class="blog-filters">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="Maghrebin-Jewish-Writing">Maghrebin Jewish Writing</button>
+  <button class="filter-btn" data-filter="Subaltern-Indian-Writing">Subaltern Indian Writing</button>
+</div>
+
 <div class="post-list">
 
   {% for post in site.posts %}
@@ -22,7 +28,7 @@ permalink: /secondary-sources/
         </p>
 
         <div class="post-excerpt">
-          {{ post.excerpt }}
+          {{ post.content | strip_html | truncatewords: 40 }}
         </div>
 
       </article>
@@ -31,3 +37,34 @@ permalink: /secondary-sources/
   {% endfor %}
 
 </div>
+
+</div>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const buttons = document.querySelectorAll(".filter-btn");
+  const posts = document.querySelectorAll(".post-preview");
+
+  buttons.forEach(function (button) {
+    button.addEventListener("click", function () {
+      const filter = button.dataset.filter;
+
+      buttons.forEach(function (btn) {
+        const active = btn === button;
+        btn.classList.toggle("active", active);
+        btn.setAttribute("aria-pressed", String(active));
+      });
+
+      posts.forEach(function (post) {
+        const categories = (post.dataset.categories || "")
+          .split(",")
+          .map(category => category.trim());
+
+        post.hidden =
+          filter !== "all" && !categories.includes(filter);
+      });
+    });
+  });
+});
+</script>
