@@ -3,7 +3,7 @@ layout: post
 title:  "<em>The Man with Many Hats</em>: Feeling Complete in India"
 date:   2026-10-27
 categories: 
-    - Subaltern-Indian-Writing
+    -  Maghrebin-Jewish-Writing
 sections: 
     - blog
 author: Axel Stähler
