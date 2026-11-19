@@ -8,15 +8,10 @@ permalink: /impressum/
 
 Patricia Weber
 
-
-Department of English
-
-Unitobler
-
-Länggassstr. 49
-
-3012 Bern 
-
+Department of English, 
+Unitobler, 
+Länggassstrasse 49, 
+3012 Bern, 
 Schweiz
 
 E-Mail: patricia.weber@unibe.ch
