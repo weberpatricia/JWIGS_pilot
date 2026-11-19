@@ -6,11 +6,17 @@ permalink: /impressum/
 
 ## Angaben gemäss Art. 3 Abs. 1 lit. s UWG
 
-Patricia Weber  
+Patricia Weber
+
+
 Department of English
+
 Unitobler
+
 Länggassstr. 49
+
 3012 Bern 
+
 Schweiz
 
 E-Mail: patricia.weber@unibe.ch
