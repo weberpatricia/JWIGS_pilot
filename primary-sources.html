@@ -3,6 +3,7 @@ layout: page
 title: Primary Sources
 permalink: /primary-sources/
 ---
+
 <div class="blog-filters">
   <button class="filter-btn active" data-filter="all">All</button>
   <button class="filter-btn" data-filter="Maghrebin-Jewish-Writing">Maghrebin Jewish Writing</button>
@@ -14,11 +15,11 @@ permalink: /primary-sources/
   {% for post in site.posts %}
     {% if post.sections contains "primary-sources" %}
 
-      <article class="post-preview">
+      <article class="post-preview" data-categories="{{ post.categories | join: ',' }}">
 
         <h2>
           <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+            {{ post.title }}
           </a>
         </h2>
 

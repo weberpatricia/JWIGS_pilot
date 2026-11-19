@@ -15,11 +15,11 @@ permalink: /secondary-sources/
   {% for post in site.posts %}
     {% if post.sections contains "secondary-sources" %}
 
-      <article class="post-preview">
+      <article class="post-preview" data-categories="{{ post.categories | join: ',' }}">
 
         <h2>
           <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+            {{ post.title }}
           </a>
         </h2>
 

@@ -3,9 +3,9 @@ layout: post
 title:  "Rohekar: Who am I Searching for?"
 date:   2026-10-28
 categories: 
-    - Subaltern-Indian-Writing
+    -   Subaltern-Indian-Writing
 sections: 
-    - blog
+    -   primary-sources 
 author: Axel Stähler
 ---
 
