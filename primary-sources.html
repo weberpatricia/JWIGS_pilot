@@ -25,6 +25,7 @@ permalink: /primary-sources/
 
         <p class="post-meta">
           {{ post.date | date: "%B %-d, %Y" }}
+          {%- if post.author %} · {{ post.author }}{% endif %}
         </p>
 
         <div class="post-excerpt">

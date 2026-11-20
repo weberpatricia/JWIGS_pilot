@@ -4,7 +4,7 @@ title: Impressum
 permalink: /impressum/
 ---
 
-## Angaben gemäss Art. 3 Abs. 1 lit. s UWG
+## Contact
 
 Patricia Weber
 
@@ -16,11 +16,10 @@ Schweiz
 
 E-Mail: patricia.weber@unibe.ch
 
-## Urheberrecht
+## Copyright
 
-Alle Inhalte dieser Seite (Texte, Bilder) unterliegen dem Urheberrecht.
-Die Verwendung bedarf der vorherigen Zustimmung der Autoren.
+© Jewish Writing in the Global South Project - 2026
 
-## Haftungsausschluss
+## Nonliability
 
-Für die Inhalte externer Links sind ausschliesslich deren Betreiber verantwortlich.
+The operators of external links are solely responsible for their content.
