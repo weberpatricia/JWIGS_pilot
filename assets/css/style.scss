@@ -21,6 +21,11 @@ $brand-color: #61947A;
   color: #F8E9D7
 }
 
+
+/* Linie über dem Footer */
+.site-footer {
+  border-top: 1px solid #ccc;
+}
 /* Logo */
 
 .header-row {
@@ -120,15 +125,7 @@ $brand-color: #61947A;
   }
 }
 
-/* page heading to left
 
-.post-title {
-  text-align: left;
-}
-
-.post-header {
-  text-align: left;
-}
 
 /* Website colour scheme */
 
@@ -245,6 +242,7 @@ h6,
 }
 
 .site-footer {
+  padding-top: 20px
   border-top: 1px  #3f62a3;
   color: #F8E9D7
 }
