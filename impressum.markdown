@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Impressum
-permalink: /impressum/
+title: Legal info
+permalink: /legal-info/
 ---
 
 ## Contact
