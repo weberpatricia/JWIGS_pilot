@@ -4,7 +4,6 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-
 ## Controller
 
 The person responsible for this website is:
