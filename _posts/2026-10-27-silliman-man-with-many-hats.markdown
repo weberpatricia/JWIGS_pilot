@@ -115,6 +115,7 @@ The image of natural destruction with which Mahadevan concludes her <em>Shulamit
 (Axel Stähler)
 </p>
 
+
 <p style="text-align: justify;">
 <strong>Works Cited</strong>
 </p>

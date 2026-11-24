@@ -9,6 +9,7 @@ sections:
 author: Aishwarya Khale
 ---
 
+
 <p style="text-align: justify;">
 The scholarly terrain of Indian Jewish life has been mapped mainly by anthropologists and historians (Isenberg, 1988; Katz, 2000; Roland, 1989; Weil, 2002). Their work traces how these communities arrived on the subcontinent and put down roots there. It follows how they kept the rhythms of ritual and observance while being drawn into the linguistic, social and cultural worlds around them. This work is valuable and has helped us understand these communities. However, it mostly treats Indian Jews as a subject of social or historical study. Yet comparatively little of this scholarship approaches Indian Jewish writing as literature. Novels, poems, memoirs and plays by Indian Jewish authors are often read for what they document, as ethnographic evidence or historical testimony about communal life, rather than as aesthetic works that call for attention to form, style and imaginative design. What gets lost in such readings is how these texts tell the story of identity: the narrative strategies, generic choices and figurative language through which belonging is imagined, contested and remade. As a result, Indian Jewish literary production has seldom been treated as a body of literature in its own right, one that deserves sustained critical and theoretical engagement.
 </p>

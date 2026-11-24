@@ -39,7 +39,6 @@ Maghrebi Jewish literature invites us to consider identities lived in the plural
 </p>
 
 
-
 <p style="text-align: justify;"> 
 <strong>Works Cited</strong>
 </p>
