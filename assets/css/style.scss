@@ -11,7 +11,7 @@ $brand-color: #156083;
 
 .home-divider {
   border: none;
-  border-top: 1px solid #156083;
+  border-top: 1px solid #5E8EA5;
   margin: 2rem 0;
 }
 
@@ -25,15 +25,10 @@ $brand-color: #156083;
 
 .site-header {
   padding-top: 20px;
-  border-bottom: 1px  #156083;
+  border-bottom: 1px  #5E8EA5;
   color: #F8E9D7
 }
 
-
-/* Linie über dem Footer */
-.site-footer {
-  border-top: 1px solid #156083;
-}
 /* Logo */
 
 .header-row {
@@ -138,8 +133,6 @@ $brand-color: #156083;
 /* Website colour scheme */
 
 body,
-.site-header,
-.site-footer,
 .page-content {
   background-color: #FCF5ED;
   color: #156083;
@@ -251,7 +244,7 @@ h6,
 
 .site-footer {
   padding-top: 20px;
-  border-top: 1px  #3f62a3;
+  border-top: 1px  #5E8EA5;
   color: #F8E9D7
 }
 
