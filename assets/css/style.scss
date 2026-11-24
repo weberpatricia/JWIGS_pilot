@@ -8,6 +8,14 @@ $brand-color: #61947A;
 "minima/skins/{{ site.minima.skin | default: 'classic' }}",
 "minima/initialize";
 
+
+.home-divider {
+  border: none;
+  border-top: 1px solid #3f62a3;
+  margin: 2rem 0;
+}
+
+
 /* Header */
 .site-title img {
   width: 120px;
