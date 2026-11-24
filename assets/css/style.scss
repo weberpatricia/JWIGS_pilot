@@ -1,8 +1,8 @@
 ---
 ---
 $background-color: #FCF5ED;
-$text-color: #002466;
-$brand-color: #61947A;
+$text-color: #156083;
+$brand-color: #156083;
 
 @import
 "minima/skins/{{ site.minima.skin | default: 'classic' }}",
@@ -11,7 +11,7 @@ $brand-color: #61947A;
 
 .home-divider {
   border: none;
-  border-top: 1px solid #3f62a3;
+  border-top: 1px solid #156083;
   margin: 2rem 0;
 }
 
@@ -25,14 +25,14 @@ $brand-color: #61947A;
 
 .site-header {
   padding-top: 20px;
-  border-bottom: 1px  #3f62a3;
+  border-bottom: 1px  #156083;
   color: #F8E9D7
 }
 
 
 /* Linie über dem Footer */
 .site-footer {
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #156083;
 }
 /* Logo */
 
