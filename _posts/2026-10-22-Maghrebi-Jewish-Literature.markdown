@@ -41,7 +41,7 @@ Maghrebi Jewish literature invites us to consider identities lived in the plural
 
 
 <p style="text-align: justify;"> 
-Works cited:
+<strong>Works Cited</strong>
 </p>
 <p style="text-align: justify;">
 Assa, Sonia. “Elissa Rhaïs.” <i>Jewish Women’s Archive</i>, <a href="https://jwa.org/encyclopedia/article/rhais-elissa">https://jwa.org/encyclopedia/article/rhais-elissa</a>. Accessed 22 Oct. 2026.

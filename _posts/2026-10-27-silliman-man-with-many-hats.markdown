@@ -116,7 +116,7 @@ The image of natural destruction with which Mahadevan concludes her <em>Shulamit
 </p>
 
 <p style="text-align: justify;">
-Works Cited
+<strong>Works Cited</strong>
 </p>
 <p style="text-align: justify;">
 Silliman, Jael (2013). <em>The Man with Many Hats</em>. Kolkata: Seagull Books.

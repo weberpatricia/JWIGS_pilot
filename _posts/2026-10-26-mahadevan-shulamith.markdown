@@ -87,7 +87,7 @@ While there is some hope for Maizie, and while the return of both Daniel and Mic
 
 
 <p style="text-align: justify;">
-Works Cited
+<strong>Works Cited</strong>
 </p>
 <p style="text-align: justify;">
 Egorova, Yulia (2003). “The Home of One’s Own: Indian Jewish Fiction and the Problem of Bene Israel Identity.” <em>Journal of Indo-Judaic Studies</em> 6: 71–78.
@@ -107,9 +107,10 @@ Rohekar, Sheela (2024). <em>Miss Samuel: A Jewish-Indian Saga</em>. Translated b
 <p style="text-align: justify;">
 Wessler, Heinz Werner (2013). “‘My Backward Place is Where I am’: Jewish Identity and Jewish Authorship in India.” In: <em>Between Mumbai and Manila: Judaism in Asia since the Founding of the State of Israel</em>. Edited by Manfred Hutter. 191–209. Göttingen: Bonn University Press.
 </p>
-<p style="text-align: justify;">
 
-Notes
+
+<p style="text-align: justify;">
+<strong>Notes</strong>
 </p>
 <p style="text-align: justify;">
 [1]  Sheela Rohekar, in contrast, introduces in her <em>Miss Samuel: A Jewish-Indian Saga</em> a highly critical element. The novel was published in Hindi in 2013, its translation into English by Madhu Singh appeared in 2024.

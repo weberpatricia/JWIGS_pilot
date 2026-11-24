@@ -39,9 +39,10 @@ Individual research articles about Indian Jewish literature, in particular by Yu
 <p style="text-align: right;">
 (Axel Stähler)
 </p>
-<p style="text-align: justify;">
 
-Works Cited
+
+<p style="text-align: justify;">
+<strong>Works Cited</strong>
 </p>
 <p style="text-align: justify;">
 Egorova, Yulia (2003). “The Home of One’s Own: Indian Jewish Fiction and the Problem of Bene Israel Identity.” Journal of Indo-Judaic Studies 6: 71–78.

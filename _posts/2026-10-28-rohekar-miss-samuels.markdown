@@ -119,7 +119,7 @@ In the end, the pessimism that pervades Rohekar’s novel about the Bene Israel 
 </p>
 
 <p style="text-align: justify;">
-Works Cited
+<strong>Works Cited</strong>
 </p>
 <p style="text-align: justify;">
 Aafreedi, Navras Jaat (2013). “Hindi novel portrays life of Indian Jews.” <a href="https://www.ynetnews.com/articles/0,7340,L-4381475,00.html"> https://www.ynetnews.com/articles/0,7340,L-4381475,00.html </a> (accessed October 31, 2025).
