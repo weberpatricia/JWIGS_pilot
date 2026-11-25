@@ -1,8 +1,9 @@
 ---
 ---
 $background-color: #FCF5ED;
-$text-color: #156083;
-$brand-color: #156083;
+$text-color-blue: #156083;
+$text-color-green: #61947A;
+$border-color-light-blue: #5E8EA5;
 
 @import
 "minima/skins/{{ site.minima.skin | default: 'classic' }}",
@@ -271,8 +272,8 @@ h6,
 
 .filter-btn:hover {
   background: #FCF5ED;
-  color: #61947a;
-  border-color: #61947a;
+  color: #61947A;
+  border-color: #61947A;
 }
 
 .filter-btn.active {
